@@ -6,4 +6,4 @@ num1 = 5
 num2 = 3
 result = num1**num2
 
-print(f'El resultado de la potencia ', num1, "x", num2, "=", result)
+print(f'El resultado de la potencia ', num1, "^", num2, "=", result)
